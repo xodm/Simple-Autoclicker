@@ -12,4 +12,4 @@ You can install the needed libraries using:
 pip install pyautogui keyboard
 ```
 
-Didn't know how to get keys from scan_code using keyboard, gave up and just hard coded it into an object.
+Didn't know how to get keys from scan_code using keyboard, gave up and just hard coded it into a hashmap.
